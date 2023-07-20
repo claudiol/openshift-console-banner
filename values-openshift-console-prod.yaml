@@ -1,0 +1,6 @@
+banner:
+  text: 'OpenShift Cluster'
+  location: BannerTop
+  environment: 'PRODUCTION'
+  color: '#fff'
+  backgroundColor: '#000000'
